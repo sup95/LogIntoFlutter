@@ -1,3 +1,3 @@
-# Log In-to Flutter
+# LogIntoFlutter
 
 A simple Login flow implemented in Flutter.
